@@ -83,7 +83,7 @@ namespace DateTimeDataType
             Console.WriteLine(Math.Round(sayi5, 2));
             Console.WriteLine(Math.Sqrt(64)); //8
             // 8 ^(1/3) = 2
-            Console.WriteLine(Math.Pow(8, 1.0/3.0);
+            Console.WriteLine(Math.Pow(8, 1.0/3.0));
 
 
 
